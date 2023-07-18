@@ -21,8 +21,8 @@ class _SplashScreenState extends State<SplashScreen> {
                   MainAxisAlignment.center, // Added mainAxisAlignment
               children: [
                 Container(
-                  height: 80,
-                  width: 80,
+                  height: 100,
+                  width: 100,
                   color: Colors.deepPurple,
                 ),
               ],
@@ -47,27 +47,27 @@ class _SplashScreenState extends State<SplashScreen> {
                       Container(
                         width: 20,
                         height: 20,
-                        color: Colors.green,
+                        color: const Color.fromARGB(255, 169, 231, 171),
                       ),
                       Container(
                         width: 20,
                         height: 20,
-                        color: Colors.green,
+                        color: const Color.fromARGB(255, 134, 235, 138),
                       ),
                       Container(
                         width: 20,
                         height: 20,
-                        color: Colors.green,
+                        color: const Color.fromARGB(255, 108, 230, 112),
                       ),
                       Container(
                         width: 20,
                         height: 20,
-                        color: Colors.green,
+                        color: const Color.fromARGB(255, 86, 236, 91),
                       ),
                       Container(
                         width: 20,
                         height: 20,
-                        color: Colors.green,
+                        color: const Color.fromARGB(255, 42, 235, 49),
                       ),
                     ],
                   ),
